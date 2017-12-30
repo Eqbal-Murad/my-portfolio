@@ -7,3 +7,5 @@ This is my professional portfolio.
 Brew
 SSH
 AWS
+GIT
+React.js
