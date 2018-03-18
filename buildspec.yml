@@ -5,8 +5,8 @@ phases:
       commands:
         - echo Nothing to do yet
 
-    artifacts:
-      files:
+artifacts:
+    files:
         - index.html
         - favicon.ico
         - Eqbal-Murad-Resume.doc
