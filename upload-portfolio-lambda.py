@@ -13,6 +13,7 @@ def lambda_handler(event, context):
         "objectKey" : 'portfoliobuild.zip'
         }
 
+
     try:
         job = event.get("CodePipeline.job")
         if job:
